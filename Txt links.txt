@@ -1,0 +1,6 @@
+Dashboard : https://us3.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FStory%2BVisualization&action=view&sceneId=model0000018b41f1afe6_00000002&sceneTime=0
+
+Story :
+https://us3.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FStory%2BVisualization&action=view&sceneId=model0000018b41f1afe6_00000002&sceneTime=0 
+
+Visulization : https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FNew%2Bexploration&subView=model0000018b3d02cf8e_00000003
